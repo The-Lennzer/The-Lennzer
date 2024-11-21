@@ -4,15 +4,7 @@
 <img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 
-- 🔭 I’m currently working on **Backend and Software Design**
-
-- 🌱 I’m currently learning **NodeJS, Azure Cloud, CP**
-
-- 👯 I’m looking to collaborate on **Hackathons(Web-dev | Software)**
-
-- 💬 Ask me about **ReactJS, NodeJS, NextJS**
-
-- 📫 How to reach me **adithyalennzer@gmail.com**
+Software/AI developer focused on ML/DL engineering and Web development. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
