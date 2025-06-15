@@ -1,15 +1,56 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Adithya Krishna</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | SDE </h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+```
 
-<h3 align="left">Connect:</h3>
-<p align="left">
-<a href="https://twitter.com/adithyalennzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lennzer" height="30" width="40" /></a>
-<a href="https://instagram.com/lennzer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lennzer_" height="30" width="40" /></a>
-</p>
+ ___________  __    __    _______      ___       _______  _____  ___   _____  ___  ________    _______   _______   
+("     _   ")/" |  | "\  /"     "|    |"  |     /"     "|(\"   \|"  \ (\"   \|"  \("      "\  /"     "| /"      \  
+ )__/  \\__/(:  (__)  :)(: ______)    ||  |    (: ______)|.\\   \    ||.\\   \    |\___/   :)(: ______)|:        | 
+    \\_ /    \/      \/  \/    |      |:  |     \/    |  |: \.   \\  ||: \.   \\  |  /  ___/  \/    |  |_____/   ) 
+    |.  |    //  __  \\  // ___)_      \  |___  // ___)_ |.  \    \. ||.  \    \. | //  \__   // ___)_  //      /  
+    \:  |   (:  (  )  :)(:      "|    ( \_|:  \(:      "||    \    \ ||    \    \ |(:   / "\ (:      "||:  __   \  
+     \__|    \__|  |__/  \_______)     \_______)\_______) \___|\____\) \___|\____\) \_______) \_______)|__|  \___) 
+                                                                                                                   
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```
 
 
+# Hi, I'm Lennzer 👋
+
+I'm a backend-focused developer passionate about building scalable systems, learning system design, and contributing to open-source. I’m currently working on a task orchestration engine called **TORN**, and actively deepening my understanding of core computer science fundamentals and designing distributed, scalable and reliable systems.
+
+---
+
+### 💻 Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Python, Java, C/C++
+- **Frameworks & Tools:** Node.js, Express, Fastify, Next.js, React, Redis, Docker
+- **Core Interests:** System Design, Distributed Systems, Backend Engineering
+- **Other Skills:** LLD, HLD, integrating AI tooling with dev workflows
+
+---
+
+### 🚀 Current Projects
+
+- 🔧 **[TORN](https://github.com/The-Lennzer/TORN)**: A task orchestration engine (queue, workers, command execution, retries)
+- 🧩 **Project Collaboration Platform**(Code Crib): A platform to showcase and discover projects to collaborate on (WIP)
+
+---
+
+### 🌱 Learning & Goals
+
+- Advanced DSA and problem solving
+- Operating Systems, DBMS, Networking
+- Contributing to Open Source (currently exploring [PostHog](https://github.com/PostHog/posthog))
+- Writing technical blogs about system design and backend engineering
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/ln-adithya-krishna)
+- 💌 Reach out for collaboration, OSS work, or just a good tech chat!
+
+---
+
+### 🧠 Fun Fact
+I write fiction novels that never see the light of day. Once in a red moon, I make it to chapter 2.
+
+![cool gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
