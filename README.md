@@ -38,7 +38,7 @@ I'm a backend-focused developer passionate about building scalable systems, lear
 
 - Advanced DSA and problem solving
 - Operating Systems, DBMS, Networking
-- Contributing to Open Source (currently exploring [PostHog](https://github.com/PostHog/posthog))
+- Contributing to Open Source (currently exploring [Supabase](https://github.com/supabase/supabase))
 - Writing technical blogs about system design and backend engineering
 
 ---
