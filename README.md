@@ -14,7 +14,7 @@
 
 # Hi, I'm Adithya 👋
 
-I'm a backend-focused developer passionate about building scalable systems, learning system design, and contributing to open-source. I’m currently working on a task orchestration engine called **TORN**, and actively deepening my understanding of core computer science fundamentals and designing distributed, scalable and reliable systems.
+I'm a backend-focused developer passionate about building scalable systems, learning system design, and contributing to open-source. I’m currently working on low level systems development, C/C++ and AI systems. I'm actively deepening my understanding of core computer science fundamentals and designing distributed, scalable and reliable systems.
 
 ---
 
